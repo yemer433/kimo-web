@@ -399,3 +399,13 @@ margin-bottom: 20vh;
   #pic20:hover .cap {
     opacity: 100%;
   }
+
+
+  @media (max-width:1000px) {
+    .gallery{
+      width: 95vw;
+    }
+    .pic{
+      width: 30vw;
+    }
+  }
